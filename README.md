@@ -1,17 +1,6 @@
 <div align="center">
     <h1>Hi ✨</h1>  
 </div>
-<br>
-
-
-<!-- Status 
-<div align="center"><br>
-  <a href="https://github.com/danielaalmeiida"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaalmeiida&show_icons=true&theme=dracula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaalmeiida&layout=compact">
-</div>
-<br>
--->
 
 <!-- Linguagens utilizadas -->
 <div align="center"><br>
@@ -24,10 +13,20 @@
 <br>
 
 <!-- Gif --> 
+<br>
 <div align="center">
     <img height="120em" src="https://openseauserdata.com/files/6fc9db7cd1096f7a3f65930286db687a.gif">
 </div>
+
+
+<!-- Status 
+<div align="center"><br>
+  <a href="https://github.com/danielaalmeiida"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaalmeiida&show_icons=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaalmeiida&layout=compact">
+</div>
 <br>
+-->
 
 <!-- Projects 
 <div style="display: inline_block"><br>
