@@ -3,6 +3,7 @@
 <!-- Status  -->
 <div align="center"><br>
   <a href="https://github.com/danielaalmeiida"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaalmeiida&show_icons=true&theme=dracula">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaalmeiida&layout=compact">
 </div>
 <br>
@@ -19,13 +20,13 @@
 
 <!-- Gif --> 
 <div align="center">
-    <img height="130em" src="https://openseauserdata.com/files/6fc9db7cd1096f7a3f65930286db687a.gif">
+    <img height="120em" src="https://openseauserdata.com/files/6fc9db7cd1096f7a3f65930286db687a.gif">
 </div>
 <br>
 
 <!-- Projects --> 
 <div style="display: inline_block"><br>
   <a href="https://github.com/danielaalmeiida/fintech"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=danielaalmeiida&repo=fintech">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=danielaalmeiida&repo=fintech">
 </div>
 <br>
