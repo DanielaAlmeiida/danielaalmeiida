@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="80%" alt="Hello!" src="./assets/gh-readme-header.png" />
+</p>
+
 <div align="center">
     <h1>Hi ✨</h1>  
 </div>
