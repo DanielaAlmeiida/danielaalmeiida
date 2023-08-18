@@ -1,13 +1,18 @@
-### Hi ✨
+<div align="center">
+    ### Hi 
+</div>
+<br>
 
-<!-- Status  -->
+
+<!-- Status 
 <div align="center"><br>
   <a href="https://github.com/danielaalmeiida"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaalmeiida&show_icons=true&theme=dracula">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaalmeiida&layout=compact">
 </div>
 <br>
- 
+-->
+
 <!-- Linguagens utilizadas -->
 <div align="center"><br>
   <img align="center" alt="Daniela-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,9 +29,10 @@
 </div>
 <br>
 
-<!-- Projects --> 
+<!-- Projects 
 <div style="display: inline_block"><br>
   <a href="https://github.com/danielaalmeiida/fintech"> 
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=danielaalmeiida&repo=fintech">
 </div>
 <br>
+--> 
