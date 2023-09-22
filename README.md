@@ -13,7 +13,11 @@
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielaalmeiida&layout=compact&theme=dracula)
+
+<a href="https://github.com/danielaalmeiida/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaalmeiida&layout=compact&theme=omni"/>
+</a>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielaalmeiida&layout=compact&theme=omni) -->
 
 
 <!-- Gif --> 
