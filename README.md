@@ -12,6 +12,10 @@
 </div>
 <br>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielaalmeiida&layout=compact&theme=dracula)
+
+
 <!-- Gif --> 
 <br>
 <div align="center">
