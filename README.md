@@ -1,8 +1,9 @@
 <div>
   <h1>Hi, I'm Daniela Almeida ✨</h1>  
+  <p>JavaScript and Java FullStack Developer.</p>
+  <p>Systems analysis and development student at FIAP.</p>
 </div>
 
-<!-- Linguagens utilizadas -->
 <div>
   <h1>Most used technologies ✨</h1>
   
@@ -14,7 +15,7 @@
   
   <a href="https://github.com/danielaalmeiida/convoychat">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaalmeiida&layout=compact&theme=omni"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaalmeiida&show_icons=true&theme=omni">
+    <!-- Status <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaalmeiida&show_icons=true&theme=omni"> -->
   </a>
 </div>
 
@@ -25,13 +26,4 @@
     <img height="120em" src="https://openseauserdata.com/files/6fc9db7cd1096f7a3f65930286db687a.gif">
 </div>
 --> 
-
-<!-- Status 
-<div align="center"><br>
-  <a href="https://github.com/danielaalmeiida"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaalmeiida&show_icons=true&theme=dracula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaalmeiida&layout=compact">
-</div>
-<br>
--->
 
